@@ -43,6 +43,11 @@ p{
 
 }
 
+.navbar.scrolled {
+    background-color:#e9cddc;
+    transition: background 500ms;
+}
+
 @media (max-width:1200px){
     #headingGroup h2{
         color:#5A1567;
